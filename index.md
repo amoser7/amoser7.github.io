@@ -4,6 +4,7 @@
 
 ## To begin with, we learned how to use GitHub and clone a git repository locally. Our first project required us to complete coursework regarding GitHub and create a GitHub page with a picture showing we were successful.
 [Hello World](https://github.com/amoser7/hello-world)
+
 [Get-It Project](https://uo-cit.github.io/p2-17S-amoser7/)
 
 ## For our next project, we learned how to use APIs for the Flickr and 500px applications.
